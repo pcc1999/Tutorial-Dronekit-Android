@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tutorial</string>
+    <string name="RTL">Return To Launch</string>
+    <string name="takeOff">Take Off</string>
+    <string name="arm">Arm</string>
+    <string name="disarm">Disarm</string>
+    <string name="connect">Connect</string>
+</resources>
